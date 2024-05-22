@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
   templateUrl: './to-do-list-component.component.html',
   styleUrl: './to-do-list-component.component.scss'
 })
-export class ToDoListComponentComponent {
+export class ToDoListComponent {
 
 }
